@@ -1,34 +1,39 @@
-## Olá! Bem vindo ao meu GitHub !!!
- <div>
- 
- 
-- 😄 Me chamo Jedeias Luiz. Estudo sobre a área desde 2022!
-- 🌱 Desenvolvo em Pytho, PHP e Node.Js
-- 📫 Contato: jedeiasluiz3@gmail.com
-- 🚀 Nos tempos vagos desenvolvo projetos pessoais para aperfeiçoar meus conhecimentos!
- 
- ##
- 
-  <a href="https://github.com/jedeias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeias&layout=compact&langs_count=7&theme=aura"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jedeias&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
- 
-  
-  ##
- 
-   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="jedeias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jedeias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jedeias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" left="30" align="center" alt="jedeias-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" left="30" alt="jedeias-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" left="30" alt="jedeias-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" left="30" alt="jedeias-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&section=header&text=Jedeias%20Luiz&fontSize=30&animation=twinkling" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jedeias+Luiz;i'was+born+in+august+of+2003;I+from+Brasil,+SP;I+study+systems+development+at+Etec;Be+Welcome!+:%29)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jedeias&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jedeias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedeias&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-   
-   ##
-<div> 
-  <a href="https://www.linkedin.com/in/jedeias-luiz-608a00214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jedeias&theme=react-dark)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jedeias&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-0D1117?style=for-the-badge&logo=Mongodb&labelColor=0D1117)&nbsp;
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jedeias}/count.svg" /></p> 
+<br></div>
   
-</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
