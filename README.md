@@ -15,18 +15,17 @@
 
 <div width="50%">
      
-### <p color=ecf2ff>Main skills:</p>
-![Python](https://img.shields.io/badge/-Python-002907?style=for-the-badge&logo=python&labelColor=002907)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-002907?style=for-the-badge&logo=html5&labelColor=002907)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-002907?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=002907)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-002907?style=for-the-badge&logo=php&labelColor=002907)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-002907?style=for-the-badge&logo=mysql&labelColor=002907)&nbsp;
-
-
 ### <p color=ecf2ff>Tools:</p>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-016111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=016111)&nbsp;
-![Git](https://img.shields.io/badge/-Git-016111?style=for-the-badge&logo=git&labelColor=016111)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-016111?style=for-the-badge&logo=github&labelColor=016111)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-002907?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=002907)&nbsp;
+![Git](https://img.shields.io/badge/-Git-002907?style=for-the-badge&logo=git&labelColor=002907)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-002907?style=for-the-badge&logo=github&labelColor=002907)&nbsp;
+
+
+### <p color=ecf2ff>Studying in this moment:</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-022922?style=for-the-badge&logo=JavaScript&labelColor=022922)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-022922?style=for-the-badge&logo=node.js&labelColor=022922)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-022922?style=for-the-badge&logo=Mongodb&labelColor=022922)&nbsp;
+
 
 
 ### <p color=ecf2ff>Studying in this moment:</p>
