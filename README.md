@@ -15,24 +15,23 @@
 
 <div width="50%">
      
-### <p color=ecf2ff>Tools:</p>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-002907?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=002907)&nbsp;
-![Git](https://img.shields.io/badge/-Git-002907?style=for-the-badge&logo=git&labelColor=002907)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-002907?style=for-the-badge&logo=github&labelColor=002907)&nbsp;
+### Main skills:
 
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-### <p color=ecf2ff>Studying in this moment:</p>
-![JavaScript](https://img.shields.io/badge/-JavaScript-022922?style=for-the-badge&logo=JavaScript&labelColor=022922)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-022922?style=for-the-badge&logo=node.js&labelColor=022922)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-022922?style=for-the-badge&logo=Mongodb&labelColor=022922)&nbsp;
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-
-
-### <p color=ecf2ff>Studying in this moment:</p>
-![JavaScript](https://img.shields.io/badge/-JavaScript-022922?style=for-the-badge&logo=JavaScript&labelColor=022922)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-022922?style=for-the-badge&logo=node.js&labelColor=022922)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-022922?style=for-the-badge&logo=Mongodb&labelColor=022922)&nbsp;
-
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-0D1117?style=for-the-badge&logo=Mongodb&labelColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"> <b>Visitors Count</b></p>  
