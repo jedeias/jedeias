@@ -7,8 +7,6 @@
   <img width="44.1%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedeias&layout=compact&hide_border=true&title_color=58bc5b&text_color=CAF0F8&bg_color=000025" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jedeias&theme=react-dark&title_color=00B4D8&color=023629&bg_color=none&hide_border=true&area=true&line=1ec7a8&point=1ec7a8)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jedeias&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
